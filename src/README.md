@@ -1,21 +1,21 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: MCFISH文档
+tagline: MCFISH咸鱼小镇官方文档
 actions:
-  - text: 使用指南
+  - text: 查看文档
     icon: lightbulb
     link: ./demo/
     type: primary
 
-  - text: 文档
+  - text: 前往论坛/问题反馈
     link: ./guide/
 
 highlights:
