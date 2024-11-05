@@ -27,14 +27,22 @@ highlights:
       - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
       - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
 
-  - header: 在 Markdown 中添加你想要的内容
-    description: 我们扩展了标准的 CommonMark 规范，为你添加了成吨功能。
+  - header: MCFISH文档
+    description: MCFISH咸鱼小镇官方文档
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
+    actions:
+  - text: 查看文档
+    icon: lightbulb
+    link: ./demo/
+    type: primary
+
+  - text: 前往论坛/问题反馈
+    link: ./guide/
     features:
       - title: 链接检查
         icon: clipboard-check
@@ -289,31 +297,6 @@ highlights:
         details: 在时间线中浏览和通读博文
         link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
-  - header: 高级
-    description: 增强站点与用户体验的高级功能
-    image: /assets/image/advanced.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO 增强
-        icon: dumbbell
-        details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
-
-      - title: Sitemap
-        icon: sitemap
-        details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
-
-      - title: Feed 支持
-        icon: rss
-        details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
-
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
