@@ -35,6 +35,16 @@ highlights:
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
+
+    actions:
+      - text: 查看文档
+        icon: lightbulb
+        link: ./demo/
+        type: primary
+
+      - text: 前往论坛/问题反馈
+        link: ./guide/
+    
     features:
       - title: 链接检查
         icon: clipboard-check
