@@ -301,7 +301,7 @@ highlights:
 
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyright © 2024 MCFISH.XYZ
+footer: Copyright © 2024 <a href="https://me.mcfish.xyz" target="_blank">MCFISH</a>, All Rights Reserved.
 ---
 
 这是项目主页的案例。你可以在这里放置你的主体内容。
