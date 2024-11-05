@@ -237,6 +237,14 @@ highlights:
     image: /assets/image/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    actions:
+      - text: 查看文档
+        icon: lightbulb
+        link: ./demo/
+        type: primary
+
+      - text: 前往论坛/问题反馈
+        link: ./guide/
     features:
       - title: 目录页面
         icon: network-wired
