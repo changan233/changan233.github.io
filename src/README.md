@@ -186,20 +186,6 @@ actions:
         details: 你可以为你的特定页面或特定目录进行加密，以便陌生人不能随意访问它们
         link: https://theme-hope.vuejs.press/zh/guide/feature/encrypt.html
 
-      - title: 搜索支持
-        icon: search
-        details: 支持 docsearch 和基于客户端的搜索
-        link: https://theme-hope.vuejs.press/zh/guide/feature/search.html
-
-      - title: 代码块
-        icon: code
-        details: 自定义代码块主题、行号、行高亮、复制按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/feature/code-block.html
-
-      - title: 图片预览
-        icon: image
-        details: 像相册一样允许你浏览、缩放并分享你的页面图片
-        link: https://theme-hope.vuejs.press/zh/guide/feature/photo-swipe.html
 
 copyright: false
 footer: Copyright © 2024 <a href="https://me.mcfish.xyz" target="_blank">MCFISH</a>, All Rights Reserved.
