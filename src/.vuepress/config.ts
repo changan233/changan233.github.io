@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "McFish",
-  description: "McFish Docs",
+  title: "MCFISH文档",
+  description: "MCFISH 官方文档",
 
   theme,
 
