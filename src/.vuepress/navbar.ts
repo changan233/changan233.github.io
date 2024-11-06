@@ -5,7 +5,7 @@ export default navbar([
   "/portfolio",
   "/demo/",
   {
-    text: "指南",
+    text: "文档",
     icon: "lightbulb",
     prefix: "/guide/",
     children: [
@@ -24,8 +24,8 @@ export default navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "加入服务器QQ群聊",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://qm.qq.com/q/97T8Xbooa4",
   },
 ]);
