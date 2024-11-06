@@ -17,8 +17,11 @@ VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻�
 ## MCFISH 咸鱼小镇
 
 服务器IP:**play.mcfish.xyz**{#word}
+
 服务器官网:[www.mcfish.xyz](https://www.mcfish.xyz/)
+
 服务器QQ群:[691965738](https://qm.qq.com/q/YDigOgqoMg)
+
 点券充值:[cz.mcfish.xyz](https://cz.mcfish.xyz/)
 
 ## Markdown 配置
