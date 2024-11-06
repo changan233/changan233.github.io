@@ -24,7 +24,7 @@ export default navbar([
     ],
   },
   {
-    text: "加入服务器QQ群聊",
+    text: "加入服务器群聊",
     icon: "book",
     link: "https://qm.qq.com/q/97T8Xbooa4",
   },
