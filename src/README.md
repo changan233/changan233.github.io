@@ -7,8 +7,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: MCFISH文档
-tagline: MCFISH咸鱼小镇官方文档
+heroText: McFish文档
+tagline: McFish咸鱼小镇官方文档
 actions:
   - text: 查看文档
     icon: lightbulb
